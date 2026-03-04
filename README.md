@@ -1,8 +1,7 @@
 
 # A projektet készítették:
-- Név1
-- Név2
+Farkas Gergő
+Csanád Veres
 
 # Következő API-kat használtuk:
-- Api1
-- Api2
+CSGO
